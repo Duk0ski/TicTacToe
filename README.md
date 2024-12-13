@@ -21,12 +21,12 @@ This is a simple and fun Tic-Tac-Toe web application built using only HTML, CSS,
 4. The game will automatically determine the winner or declare a draw.
 5. Click the "Restart" button to start a new game.
 
-File Structure
+## File Structure
 index.html: Main HTML structure for the game.
 style.css: CSS file for styling the game.
 script.js: JavaScript file containing the game logic.
 
-Preview
+## Preview
 ![Tic-Tac-Toe Screenshot](screenshot.PNG)
 
 ## Future Enhancements
