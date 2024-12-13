@@ -27,7 +27,6 @@ style.css: CSS file for styling the game.
 script.js: JavaScript file containing the game logic.
 
 Preview
-
 ![Tic-Tac-Toe Screenshot](screenshot.PNG)
 
 Future Enhancements
