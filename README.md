@@ -29,10 +29,10 @@ script.js: JavaScript file containing the game logic.
 Preview
 ![Tic-Tac-Toe Screenshot](screenshot.PNG)
 
-Future Enhancements
-Implement AI for a single-player mode.
-Add animations for a better user experience.
-Allow online multiplayer functionality.
+## Future Enhancements
+- **Implement AI for a single-player mode.**
+- **Add animations for a better user experience.**
+- **Allow online multiplayer functionality.**
 
-License
+## License
 This project is open source and available under the MIT License.
